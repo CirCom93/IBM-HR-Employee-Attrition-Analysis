@@ -25,12 +25,36 @@ This page provides a general overview of employees and attrition within the comp
 
 In addition to these indicators, it shows the distribution of employees by department and job role, together with a general view of attrition, with the goal of providing a quick understanding of the company structure and identifying where employee loss is most concentrated.
 
+---
+
 ### Page 2 - Employee Demographics
 
 This page analyzes the composition of employees based on age, gender, education level, and marital status. The goal is to understand how employees are distributed within the company and which groups are most represented. These insights help build a clearer picture of the company's workforce.
+
+---
 
 ### Page 3 - Attrition Drivers
 
 This page analyzes some of the main factors associated with employee attrition. The analysis examines elements such as overtime, monthly income, job satisfaction, work-life balance, and years at the company.
 
 The goal is to identify patterns and differences between employees who left the company and those who stayed, highlighting factors that may influence employee retention.
+
+---
+
+## Dashboard Preview
+
+### Page 1 - HR Overview / KPI Dashboard
+
+![Page 1](Images/page_1_hr_overview.png)
+
+---
+
+### Page 2 - Employee Demographics
+
+![Page 2](Images/page_2_demographics.png)
+
+---
+
+### Page 3 - Attrition Drivers
+
+![Page 3](Images/page_3_attrition_drivers.png)
